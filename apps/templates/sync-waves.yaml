@@ -3,6 +3,8 @@ kind: Application
 metadata:
   name: sync-waves
   namespace: argocd
+  annotations:
+    link.argocd.argoproj.io/external-link: https://mon.wolke8.it/
   finalizers:
   - resources-finalizer.argocd.argoproj.io
 spec:
