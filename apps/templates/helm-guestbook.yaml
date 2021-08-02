@@ -5,6 +5,8 @@ metadata:
   namespace: argocd
   finalizers:
   - resources-finalizer.argocd.argoproj.io
+  labels:
+    test: {{ .Values.test.foo }}
 spec:
   destination:
     namespace: helm-guestbook
@@ -14,3 +16,9 @@ spec:
     path: helm-guestbook
     repoURL: {{ .Values.spec.source.repoURL }}
     targetRevision: {{ .Values.spec.source.targetRevision }}
+    helm:
+      valueFiles:
+        - values.yaml
+      values: |
+        test:
+          foo: "hello-from-values-block"
