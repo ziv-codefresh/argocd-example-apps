@@ -46,4 +46,4 @@ affinity: {}
 
 
 test:
-  foo: "hello"
+  foo: "hello2"
