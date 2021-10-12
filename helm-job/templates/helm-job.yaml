@@ -1,0 +1,23 @@
+apiVersion: argoproj.io/v1alpha1
+kind: Application
+metadata:
+  name: helm-guestbook
+  namespace: argocd
+  finalizers:
+  - resources-finalizer.argocd.argoproj.io
+  labels:
+    test: {{ .Values.test.foo }}
+spec:
+  project: default
+  source:
+    repoURL: 'https://cetic.github.io/helm-charts'
+    targetRevision: 0.1.1
+    chart: job
+    helm:
+      values: |
+        test:
+          foo: "hello-from-values-block"
+  destination:
+    server: 'https://kubernetes.default.svc'
+    namespace: default
+  syncPolicy: { }
