@@ -17,6 +17,8 @@ spec:
       values: |
         test:
           foo: "hello-from-values-block"
+        image:
+          imagePullPolicy: "Always"
   destination:
     server: 'https://kubernetes.default.svc'
     namespace: default
