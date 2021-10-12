@@ -18,7 +18,8 @@ spec:
         test:
           foo: "hello-from-values-block"
         image:
-          imagePullPolicy: "Always"
+          imagePullPolicy: Always
+        backoffLimit: 3
   destination:
     server: 'https://kubernetes.default.svc'
     namespace: default
