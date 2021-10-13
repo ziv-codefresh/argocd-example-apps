@@ -15,10 +15,6 @@ spec:
     chart: job
     helm:
       values: |
-        test:
-          foo: "hello-from-values-block"
-        image:
-          imagePullPolicy: Always
         backoffLimit: 3
   destination:
     server: 'https://kubernetes.default.svc'
