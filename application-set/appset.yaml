@@ -11,7 +11,7 @@ spec:
   template:
     # This is a template Argo CD Application, but with support for parameter substitution.
     metadata:
-      name: '{{name}}-guestbook'
+      name: '{{name}}-bl'
     spec:
       project: "default"
       source:
