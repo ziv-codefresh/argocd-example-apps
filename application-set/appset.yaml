@@ -7,7 +7,7 @@ spec:
     - list:
         elements:
           - name: pasha
-            server: https://localhost
+            server: https://kubernetes.default.svc
   template:
     # This is a template Argo CD Application, but with support for parameter substitution.
     metadata:
