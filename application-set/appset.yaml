@@ -2012,7 +2012,7 @@ spec:
     metadata:
       name: '{{name}}-bl'
     spec:
-      project: "default"
+      project: "a-1"
       source:
         repoURL: https://github.com/argoproj/argocd-example-apps/
         targetRevision: HEAD
