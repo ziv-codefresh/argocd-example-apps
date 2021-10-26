@@ -7,7 +7,2005 @@ spec:
   generators:
     - list:
         elements:
-          - name: pasha
+          - name: 1_test
+            server: https://kubernetes.default.svc
+          - name: 2_test
+            server: https://kubernetes.default.svc
+          - name: 3_test
+            server: https://kubernetes.default.svc
+          - name: 4_test
+            server: https://kubernetes.default.svc
+          - name: 5_test
+            server: https://kubernetes.default.svc
+          - name: 6_test
+            server: https://kubernetes.default.svc
+          - name: 7_test
+            server: https://kubernetes.default.svc
+          - name: 8_test
+            server: https://kubernetes.default.svc
+          - name: 9_test
+            server: https://kubernetes.default.svc
+          - name: 10_test
+            server: https://kubernetes.default.svc
+          - name: 11_test
+            server: https://kubernetes.default.svc
+          - name: 12_test
+            server: https://kubernetes.default.svc
+          - name: 13_test
+            server: https://kubernetes.default.svc
+          - name: 14_test
+            server: https://kubernetes.default.svc
+          - name: 15_test
+            server: https://kubernetes.default.svc
+          - name: 16_test
+            server: https://kubernetes.default.svc
+          - name: 17_test
+            server: https://kubernetes.default.svc
+          - name: 18_test
+            server: https://kubernetes.default.svc
+          - name: 19_test
+            server: https://kubernetes.default.svc
+          - name: 20_test
+            server: https://kubernetes.default.svc
+          - name: 21_test
+            server: https://kubernetes.default.svc
+          - name: 22_test
+            server: https://kubernetes.default.svc
+          - name: 23_test
+            server: https://kubernetes.default.svc
+          - name: 24_test
+            server: https://kubernetes.default.svc
+          - name: 25_test
+            server: https://kubernetes.default.svc
+          - name: 26_test
+            server: https://kubernetes.default.svc
+          - name: 27_test
+            server: https://kubernetes.default.svc
+          - name: 28_test
+            server: https://kubernetes.default.svc
+          - name: 29_test
+            server: https://kubernetes.default.svc
+          - name: 30_test
+            server: https://kubernetes.default.svc
+          - name: 31_test
+            server: https://kubernetes.default.svc
+          - name: 32_test
+            server: https://kubernetes.default.svc
+          - name: 33_test
+            server: https://kubernetes.default.svc
+          - name: 34_test
+            server: https://kubernetes.default.svc
+          - name: 35_test
+            server: https://kubernetes.default.svc
+          - name: 36_test
+            server: https://kubernetes.default.svc
+          - name: 37_test
+            server: https://kubernetes.default.svc
+          - name: 38_test
+            server: https://kubernetes.default.svc
+          - name: 39_test
+            server: https://kubernetes.default.svc
+          - name: 40_test
+            server: https://kubernetes.default.svc
+          - name: 41_test
+            server: https://kubernetes.default.svc
+          - name: 42_test
+            server: https://kubernetes.default.svc
+          - name: 43_test
+            server: https://kubernetes.default.svc
+          - name: 44_test
+            server: https://kubernetes.default.svc
+          - name: 45_test
+            server: https://kubernetes.default.svc
+          - name: 46_test
+            server: https://kubernetes.default.svc
+          - name: 47_test
+            server: https://kubernetes.default.svc
+          - name: 48_test
+            server: https://kubernetes.default.svc
+          - name: 49_test
+            server: https://kubernetes.default.svc
+          - name: 50_test
+            server: https://kubernetes.default.svc
+          - name: 51_test
+            server: https://kubernetes.default.svc
+          - name: 52_test
+            server: https://kubernetes.default.svc
+          - name: 53_test
+            server: https://kubernetes.default.svc
+          - name: 54_test
+            server: https://kubernetes.default.svc
+          - name: 55_test
+            server: https://kubernetes.default.svc
+          - name: 56_test
+            server: https://kubernetes.default.svc
+          - name: 57_test
+            server: https://kubernetes.default.svc
+          - name: 58_test
+            server: https://kubernetes.default.svc
+          - name: 59_test
+            server: https://kubernetes.default.svc
+          - name: 60_test
+            server: https://kubernetes.default.svc
+          - name: 61_test
+            server: https://kubernetes.default.svc
+          - name: 62_test
+            server: https://kubernetes.default.svc
+          - name: 63_test
+            server: https://kubernetes.default.svc
+          - name: 64_test
+            server: https://kubernetes.default.svc
+          - name: 65_test
+            server: https://kubernetes.default.svc
+          - name: 66_test
+            server: https://kubernetes.default.svc
+          - name: 67_test
+            server: https://kubernetes.default.svc
+          - name: 68_test
+            server: https://kubernetes.default.svc
+          - name: 69_test
+            server: https://kubernetes.default.svc
+          - name: 70_test
+            server: https://kubernetes.default.svc
+          - name: 71_test
+            server: https://kubernetes.default.svc
+          - name: 72_test
+            server: https://kubernetes.default.svc
+          - name: 73_test
+            server: https://kubernetes.default.svc
+          - name: 74_test
+            server: https://kubernetes.default.svc
+          - name: 75_test
+            server: https://kubernetes.default.svc
+          - name: 76_test
+            server: https://kubernetes.default.svc
+          - name: 77_test
+            server: https://kubernetes.default.svc
+          - name: 78_test
+            server: https://kubernetes.default.svc
+          - name: 79_test
+            server: https://kubernetes.default.svc
+          - name: 80_test
+            server: https://kubernetes.default.svc
+          - name: 81_test
+            server: https://kubernetes.default.svc
+          - name: 82_test
+            server: https://kubernetes.default.svc
+          - name: 83_test
+            server: https://kubernetes.default.svc
+          - name: 84_test
+            server: https://kubernetes.default.svc
+          - name: 85_test
+            server: https://kubernetes.default.svc
+          - name: 86_test
+            server: https://kubernetes.default.svc
+          - name: 87_test
+            server: https://kubernetes.default.svc
+          - name: 88_test
+            server: https://kubernetes.default.svc
+          - name: 89_test
+            server: https://kubernetes.default.svc
+          - name: 90_test
+            server: https://kubernetes.default.svc
+          - name: 91_test
+            server: https://kubernetes.default.svc
+          - name: 92_test
+            server: https://kubernetes.default.svc
+          - name: 93_test
+            server: https://kubernetes.default.svc
+          - name: 94_test
+            server: https://kubernetes.default.svc
+          - name: 95_test
+            server: https://kubernetes.default.svc
+          - name: 96_test
+            server: https://kubernetes.default.svc
+          - name: 97_test
+            server: https://kubernetes.default.svc
+          - name: 98_test
+            server: https://kubernetes.default.svc
+          - name: 99_test
+            server: https://kubernetes.default.svc
+          - name: 100_test
+            server: https://kubernetes.default.svc
+          - name: 101_test
+            server: https://kubernetes.default.svc
+          - name: 102_test
+            server: https://kubernetes.default.svc
+          - name: 103_test
+            server: https://kubernetes.default.svc
+          - name: 104_test
+            server: https://kubernetes.default.svc
+          - name: 105_test
+            server: https://kubernetes.default.svc
+          - name: 106_test
+            server: https://kubernetes.default.svc
+          - name: 107_test
+            server: https://kubernetes.default.svc
+          - name: 108_test
+            server: https://kubernetes.default.svc
+          - name: 109_test
+            server: https://kubernetes.default.svc
+          - name: 110_test
+            server: https://kubernetes.default.svc
+          - name: 111_test
+            server: https://kubernetes.default.svc
+          - name: 112_test
+            server: https://kubernetes.default.svc
+          - name: 113_test
+            server: https://kubernetes.default.svc
+          - name: 114_test
+            server: https://kubernetes.default.svc
+          - name: 115_test
+            server: https://kubernetes.default.svc
+          - name: 116_test
+            server: https://kubernetes.default.svc
+          - name: 117_test
+            server: https://kubernetes.default.svc
+          - name: 118_test
+            server: https://kubernetes.default.svc
+          - name: 119_test
+            server: https://kubernetes.default.svc
+          - name: 120_test
+            server: https://kubernetes.default.svc
+          - name: 121_test
+            server: https://kubernetes.default.svc
+          - name: 122_test
+            server: https://kubernetes.default.svc
+          - name: 123_test
+            server: https://kubernetes.default.svc
+          - name: 124_test
+            server: https://kubernetes.default.svc
+          - name: 125_test
+            server: https://kubernetes.default.svc
+          - name: 126_test
+            server: https://kubernetes.default.svc
+          - name: 127_test
+            server: https://kubernetes.default.svc
+          - name: 128_test
+            server: https://kubernetes.default.svc
+          - name: 129_test
+            server: https://kubernetes.default.svc
+          - name: 130_test
+            server: https://kubernetes.default.svc
+          - name: 131_test
+            server: https://kubernetes.default.svc
+          - name: 132_test
+            server: https://kubernetes.default.svc
+          - name: 133_test
+            server: https://kubernetes.default.svc
+          - name: 134_test
+            server: https://kubernetes.default.svc
+          - name: 135_test
+            server: https://kubernetes.default.svc
+          - name: 136_test
+            server: https://kubernetes.default.svc
+          - name: 137_test
+            server: https://kubernetes.default.svc
+          - name: 138_test
+            server: https://kubernetes.default.svc
+          - name: 139_test
+            server: https://kubernetes.default.svc
+          - name: 140_test
+            server: https://kubernetes.default.svc
+          - name: 141_test
+            server: https://kubernetes.default.svc
+          - name: 142_test
+            server: https://kubernetes.default.svc
+          - name: 143_test
+            server: https://kubernetes.default.svc
+          - name: 144_test
+            server: https://kubernetes.default.svc
+          - name: 145_test
+            server: https://kubernetes.default.svc
+          - name: 146_test
+            server: https://kubernetes.default.svc
+          - name: 147_test
+            server: https://kubernetes.default.svc
+          - name: 148_test
+            server: https://kubernetes.default.svc
+          - name: 149_test
+            server: https://kubernetes.default.svc
+          - name: 150_test
+            server: https://kubernetes.default.svc
+          - name: 151_test
+            server: https://kubernetes.default.svc
+          - name: 152_test
+            server: https://kubernetes.default.svc
+          - name: 153_test
+            server: https://kubernetes.default.svc
+          - name: 154_test
+            server: https://kubernetes.default.svc
+          - name: 155_test
+            server: https://kubernetes.default.svc
+          - name: 156_test
+            server: https://kubernetes.default.svc
+          - name: 157_test
+            server: https://kubernetes.default.svc
+          - name: 158_test
+            server: https://kubernetes.default.svc
+          - name: 159_test
+            server: https://kubernetes.default.svc
+          - name: 160_test
+            server: https://kubernetes.default.svc
+          - name: 161_test
+            server: https://kubernetes.default.svc
+          - name: 162_test
+            server: https://kubernetes.default.svc
+          - name: 163_test
+            server: https://kubernetes.default.svc
+          - name: 164_test
+            server: https://kubernetes.default.svc
+          - name: 165_test
+            server: https://kubernetes.default.svc
+          - name: 166_test
+            server: https://kubernetes.default.svc
+          - name: 167_test
+            server: https://kubernetes.default.svc
+          - name: 168_test
+            server: https://kubernetes.default.svc
+          - name: 169_test
+            server: https://kubernetes.default.svc
+          - name: 170_test
+            server: https://kubernetes.default.svc
+          - name: 171_test
+            server: https://kubernetes.default.svc
+          - name: 172_test
+            server: https://kubernetes.default.svc
+          - name: 173_test
+            server: https://kubernetes.default.svc
+          - name: 174_test
+            server: https://kubernetes.default.svc
+          - name: 175_test
+            server: https://kubernetes.default.svc
+          - name: 176_test
+            server: https://kubernetes.default.svc
+          - name: 177_test
+            server: https://kubernetes.default.svc
+          - name: 178_test
+            server: https://kubernetes.default.svc
+          - name: 179_test
+            server: https://kubernetes.default.svc
+          - name: 180_test
+            server: https://kubernetes.default.svc
+          - name: 181_test
+            server: https://kubernetes.default.svc
+          - name: 182_test
+            server: https://kubernetes.default.svc
+          - name: 183_test
+            server: https://kubernetes.default.svc
+          - name: 184_test
+            server: https://kubernetes.default.svc
+          - name: 185_test
+            server: https://kubernetes.default.svc
+          - name: 186_test
+            server: https://kubernetes.default.svc
+          - name: 187_test
+            server: https://kubernetes.default.svc
+          - name: 188_test
+            server: https://kubernetes.default.svc
+          - name: 189_test
+            server: https://kubernetes.default.svc
+          - name: 190_test
+            server: https://kubernetes.default.svc
+          - name: 191_test
+            server: https://kubernetes.default.svc
+          - name: 192_test
+            server: https://kubernetes.default.svc
+          - name: 193_test
+            server: https://kubernetes.default.svc
+          - name: 194_test
+            server: https://kubernetes.default.svc
+          - name: 195_test
+            server: https://kubernetes.default.svc
+          - name: 196_test
+            server: https://kubernetes.default.svc
+          - name: 197_test
+            server: https://kubernetes.default.svc
+          - name: 198_test
+            server: https://kubernetes.default.svc
+          - name: 199_test
+            server: https://kubernetes.default.svc
+          - name: 200_test
+            server: https://kubernetes.default.svc
+          - name: 201_test
+            server: https://kubernetes.default.svc
+          - name: 202_test
+            server: https://kubernetes.default.svc
+          - name: 203_test
+            server: https://kubernetes.default.svc
+          - name: 204_test
+            server: https://kubernetes.default.svc
+          - name: 205_test
+            server: https://kubernetes.default.svc
+          - name: 206_test
+            server: https://kubernetes.default.svc
+          - name: 207_test
+            server: https://kubernetes.default.svc
+          - name: 208_test
+            server: https://kubernetes.default.svc
+          - name: 209_test
+            server: https://kubernetes.default.svc
+          - name: 210_test
+            server: https://kubernetes.default.svc
+          - name: 211_test
+            server: https://kubernetes.default.svc
+          - name: 212_test
+            server: https://kubernetes.default.svc
+          - name: 213_test
+            server: https://kubernetes.default.svc
+          - name: 214_test
+            server: https://kubernetes.default.svc
+          - name: 215_test
+            server: https://kubernetes.default.svc
+          - name: 216_test
+            server: https://kubernetes.default.svc
+          - name: 217_test
+            server: https://kubernetes.default.svc
+          - name: 218_test
+            server: https://kubernetes.default.svc
+          - name: 219_test
+            server: https://kubernetes.default.svc
+          - name: 220_test
+            server: https://kubernetes.default.svc
+          - name: 221_test
+            server: https://kubernetes.default.svc
+          - name: 222_test
+            server: https://kubernetes.default.svc
+          - name: 223_test
+            server: https://kubernetes.default.svc
+          - name: 224_test
+            server: https://kubernetes.default.svc
+          - name: 225_test
+            server: https://kubernetes.default.svc
+          - name: 226_test
+            server: https://kubernetes.default.svc
+          - name: 227_test
+            server: https://kubernetes.default.svc
+          - name: 228_test
+            server: https://kubernetes.default.svc
+          - name: 229_test
+            server: https://kubernetes.default.svc
+          - name: 230_test
+            server: https://kubernetes.default.svc
+          - name: 231_test
+            server: https://kubernetes.default.svc
+          - name: 232_test
+            server: https://kubernetes.default.svc
+          - name: 233_test
+            server: https://kubernetes.default.svc
+          - name: 234_test
+            server: https://kubernetes.default.svc
+          - name: 235_test
+            server: https://kubernetes.default.svc
+          - name: 236_test
+            server: https://kubernetes.default.svc
+          - name: 237_test
+            server: https://kubernetes.default.svc
+          - name: 238_test
+            server: https://kubernetes.default.svc
+          - name: 239_test
+            server: https://kubernetes.default.svc
+          - name: 240_test
+            server: https://kubernetes.default.svc
+          - name: 241_test
+            server: https://kubernetes.default.svc
+          - name: 242_test
+            server: https://kubernetes.default.svc
+          - name: 243_test
+            server: https://kubernetes.default.svc
+          - name: 244_test
+            server: https://kubernetes.default.svc
+          - name: 245_test
+            server: https://kubernetes.default.svc
+          - name: 246_test
+            server: https://kubernetes.default.svc
+          - name: 247_test
+            server: https://kubernetes.default.svc
+          - name: 248_test
+            server: https://kubernetes.default.svc
+          - name: 249_test
+            server: https://kubernetes.default.svc
+          - name: 250_test
+            server: https://kubernetes.default.svc
+          - name: 251_test
+            server: https://kubernetes.default.svc
+          - name: 252_test
+            server: https://kubernetes.default.svc
+          - name: 253_test
+            server: https://kubernetes.default.svc
+          - name: 254_test
+            server: https://kubernetes.default.svc
+          - name: 255_test
+            server: https://kubernetes.default.svc
+          - name: 256_test
+            server: https://kubernetes.default.svc
+          - name: 257_test
+            server: https://kubernetes.default.svc
+          - name: 258_test
+            server: https://kubernetes.default.svc
+          - name: 259_test
+            server: https://kubernetes.default.svc
+          - name: 260_test
+            server: https://kubernetes.default.svc
+          - name: 261_test
+            server: https://kubernetes.default.svc
+          - name: 262_test
+            server: https://kubernetes.default.svc
+          - name: 263_test
+            server: https://kubernetes.default.svc
+          - name: 264_test
+            server: https://kubernetes.default.svc
+          - name: 265_test
+            server: https://kubernetes.default.svc
+          - name: 266_test
+            server: https://kubernetes.default.svc
+          - name: 267_test
+            server: https://kubernetes.default.svc
+          - name: 268_test
+            server: https://kubernetes.default.svc
+          - name: 269_test
+            server: https://kubernetes.default.svc
+          - name: 270_test
+            server: https://kubernetes.default.svc
+          - name: 271_test
+            server: https://kubernetes.default.svc
+          - name: 272_test
+            server: https://kubernetes.default.svc
+          - name: 273_test
+            server: https://kubernetes.default.svc
+          - name: 274_test
+            server: https://kubernetes.default.svc
+          - name: 275_test
+            server: https://kubernetes.default.svc
+          - name: 276_test
+            server: https://kubernetes.default.svc
+          - name: 277_test
+            server: https://kubernetes.default.svc
+          - name: 278_test
+            server: https://kubernetes.default.svc
+          - name: 279_test
+            server: https://kubernetes.default.svc
+          - name: 280_test
+            server: https://kubernetes.default.svc
+          - name: 281_test
+            server: https://kubernetes.default.svc
+          - name: 282_test
+            server: https://kubernetes.default.svc
+          - name: 283_test
+            server: https://kubernetes.default.svc
+          - name: 284_test
+            server: https://kubernetes.default.svc
+          - name: 285_test
+            server: https://kubernetes.default.svc
+          - name: 286_test
+            server: https://kubernetes.default.svc
+          - name: 287_test
+            server: https://kubernetes.default.svc
+          - name: 288_test
+            server: https://kubernetes.default.svc
+          - name: 289_test
+            server: https://kubernetes.default.svc
+          - name: 290_test
+            server: https://kubernetes.default.svc
+          - name: 291_test
+            server: https://kubernetes.default.svc
+          - name: 292_test
+            server: https://kubernetes.default.svc
+          - name: 293_test
+            server: https://kubernetes.default.svc
+          - name: 294_test
+            server: https://kubernetes.default.svc
+          - name: 295_test
+            server: https://kubernetes.default.svc
+          - name: 296_test
+            server: https://kubernetes.default.svc
+          - name: 297_test
+            server: https://kubernetes.default.svc
+          - name: 298_test
+            server: https://kubernetes.default.svc
+          - name: 299_test
+            server: https://kubernetes.default.svc
+          - name: 300_test
+            server: https://kubernetes.default.svc
+          - name: 301_test
+            server: https://kubernetes.default.svc
+          - name: 302_test
+            server: https://kubernetes.default.svc
+          - name: 303_test
+            server: https://kubernetes.default.svc
+          - name: 304_test
+            server: https://kubernetes.default.svc
+          - name: 305_test
+            server: https://kubernetes.default.svc
+          - name: 306_test
+            server: https://kubernetes.default.svc
+          - name: 307_test
+            server: https://kubernetes.default.svc
+          - name: 308_test
+            server: https://kubernetes.default.svc
+          - name: 309_test
+            server: https://kubernetes.default.svc
+          - name: 310_test
+            server: https://kubernetes.default.svc
+          - name: 311_test
+            server: https://kubernetes.default.svc
+          - name: 312_test
+            server: https://kubernetes.default.svc
+          - name: 313_test
+            server: https://kubernetes.default.svc
+          - name: 314_test
+            server: https://kubernetes.default.svc
+          - name: 315_test
+            server: https://kubernetes.default.svc
+          - name: 316_test
+            server: https://kubernetes.default.svc
+          - name: 317_test
+            server: https://kubernetes.default.svc
+          - name: 318_test
+            server: https://kubernetes.default.svc
+          - name: 319_test
+            server: https://kubernetes.default.svc
+          - name: 320_test
+            server: https://kubernetes.default.svc
+          - name: 321_test
+            server: https://kubernetes.default.svc
+          - name: 322_test
+            server: https://kubernetes.default.svc
+          - name: 323_test
+            server: https://kubernetes.default.svc
+          - name: 324_test
+            server: https://kubernetes.default.svc
+          - name: 325_test
+            server: https://kubernetes.default.svc
+          - name: 326_test
+            server: https://kubernetes.default.svc
+          - name: 327_test
+            server: https://kubernetes.default.svc
+          - name: 328_test
+            server: https://kubernetes.default.svc
+          - name: 329_test
+            server: https://kubernetes.default.svc
+          - name: 330_test
+            server: https://kubernetes.default.svc
+          - name: 331_test
+            server: https://kubernetes.default.svc
+          - name: 332_test
+            server: https://kubernetes.default.svc
+          - name: 333_test
+            server: https://kubernetes.default.svc
+          - name: 334_test
+            server: https://kubernetes.default.svc
+          - name: 335_test
+            server: https://kubernetes.default.svc
+          - name: 336_test
+            server: https://kubernetes.default.svc
+          - name: 337_test
+            server: https://kubernetes.default.svc
+          - name: 338_test
+            server: https://kubernetes.default.svc
+          - name: 339_test
+            server: https://kubernetes.default.svc
+          - name: 340_test
+            server: https://kubernetes.default.svc
+          - name: 341_test
+            server: https://kubernetes.default.svc
+          - name: 342_test
+            server: https://kubernetes.default.svc
+          - name: 343_test
+            server: https://kubernetes.default.svc
+          - name: 344_test
+            server: https://kubernetes.default.svc
+          - name: 345_test
+            server: https://kubernetes.default.svc
+          - name: 346_test
+            server: https://kubernetes.default.svc
+          - name: 347_test
+            server: https://kubernetes.default.svc
+          - name: 348_test
+            server: https://kubernetes.default.svc
+          - name: 349_test
+            server: https://kubernetes.default.svc
+          - name: 350_test
+            server: https://kubernetes.default.svc
+          - name: 351_test
+            server: https://kubernetes.default.svc
+          - name: 352_test
+            server: https://kubernetes.default.svc
+          - name: 353_test
+            server: https://kubernetes.default.svc
+          - name: 354_test
+            server: https://kubernetes.default.svc
+          - name: 355_test
+            server: https://kubernetes.default.svc
+          - name: 356_test
+            server: https://kubernetes.default.svc
+          - name: 357_test
+            server: https://kubernetes.default.svc
+          - name: 358_test
+            server: https://kubernetes.default.svc
+          - name: 359_test
+            server: https://kubernetes.default.svc
+          - name: 360_test
+            server: https://kubernetes.default.svc
+          - name: 361_test
+            server: https://kubernetes.default.svc
+          - name: 362_test
+            server: https://kubernetes.default.svc
+          - name: 363_test
+            server: https://kubernetes.default.svc
+          - name: 364_test
+            server: https://kubernetes.default.svc
+          - name: 365_test
+            server: https://kubernetes.default.svc
+          - name: 366_test
+            server: https://kubernetes.default.svc
+          - name: 367_test
+            server: https://kubernetes.default.svc
+          - name: 368_test
+            server: https://kubernetes.default.svc
+          - name: 369_test
+            server: https://kubernetes.default.svc
+          - name: 370_test
+            server: https://kubernetes.default.svc
+          - name: 371_test
+            server: https://kubernetes.default.svc
+          - name: 372_test
+            server: https://kubernetes.default.svc
+          - name: 373_test
+            server: https://kubernetes.default.svc
+          - name: 374_test
+            server: https://kubernetes.default.svc
+          - name: 375_test
+            server: https://kubernetes.default.svc
+          - name: 376_test
+            server: https://kubernetes.default.svc
+          - name: 377_test
+            server: https://kubernetes.default.svc
+          - name: 378_test
+            server: https://kubernetes.default.svc
+          - name: 379_test
+            server: https://kubernetes.default.svc
+          - name: 380_test
+            server: https://kubernetes.default.svc
+          - name: 381_test
+            server: https://kubernetes.default.svc
+          - name: 382_test
+            server: https://kubernetes.default.svc
+          - name: 383_test
+            server: https://kubernetes.default.svc
+          - name: 384_test
+            server: https://kubernetes.default.svc
+          - name: 385_test
+            server: https://kubernetes.default.svc
+          - name: 386_test
+            server: https://kubernetes.default.svc
+          - name: 387_test
+            server: https://kubernetes.default.svc
+          - name: 388_test
+            server: https://kubernetes.default.svc
+          - name: 389_test
+            server: https://kubernetes.default.svc
+          - name: 390_test
+            server: https://kubernetes.default.svc
+          - name: 391_test
+            server: https://kubernetes.default.svc
+          - name: 392_test
+            server: https://kubernetes.default.svc
+          - name: 393_test
+            server: https://kubernetes.default.svc
+          - name: 394_test
+            server: https://kubernetes.default.svc
+          - name: 395_test
+            server: https://kubernetes.default.svc
+          - name: 396_test
+            server: https://kubernetes.default.svc
+          - name: 397_test
+            server: https://kubernetes.default.svc
+          - name: 398_test
+            server: https://kubernetes.default.svc
+          - name: 399_test
+            server: https://kubernetes.default.svc
+          - name: 400_test
+            server: https://kubernetes.default.svc
+          - name: 401_test
+            server: https://kubernetes.default.svc
+          - name: 402_test
+            server: https://kubernetes.default.svc
+          - name: 403_test
+            server: https://kubernetes.default.svc
+          - name: 404_test
+            server: https://kubernetes.default.svc
+          - name: 405_test
+            server: https://kubernetes.default.svc
+          - name: 406_test
+            server: https://kubernetes.default.svc
+          - name: 407_test
+            server: https://kubernetes.default.svc
+          - name: 408_test
+            server: https://kubernetes.default.svc
+          - name: 409_test
+            server: https://kubernetes.default.svc
+          - name: 410_test
+            server: https://kubernetes.default.svc
+          - name: 411_test
+            server: https://kubernetes.default.svc
+          - name: 412_test
+            server: https://kubernetes.default.svc
+          - name: 413_test
+            server: https://kubernetes.default.svc
+          - name: 414_test
+            server: https://kubernetes.default.svc
+          - name: 415_test
+            server: https://kubernetes.default.svc
+          - name: 416_test
+            server: https://kubernetes.default.svc
+          - name: 417_test
+            server: https://kubernetes.default.svc
+          - name: 418_test
+            server: https://kubernetes.default.svc
+          - name: 419_test
+            server: https://kubernetes.default.svc
+          - name: 420_test
+            server: https://kubernetes.default.svc
+          - name: 421_test
+            server: https://kubernetes.default.svc
+          - name: 422_test
+            server: https://kubernetes.default.svc
+          - name: 423_test
+            server: https://kubernetes.default.svc
+          - name: 424_test
+            server: https://kubernetes.default.svc
+          - name: 425_test
+            server: https://kubernetes.default.svc
+          - name: 426_test
+            server: https://kubernetes.default.svc
+          - name: 427_test
+            server: https://kubernetes.default.svc
+          - name: 428_test
+            server: https://kubernetes.default.svc
+          - name: 429_test
+            server: https://kubernetes.default.svc
+          - name: 430_test
+            server: https://kubernetes.default.svc
+          - name: 431_test
+            server: https://kubernetes.default.svc
+          - name: 432_test
+            server: https://kubernetes.default.svc
+          - name: 433_test
+            server: https://kubernetes.default.svc
+          - name: 434_test
+            server: https://kubernetes.default.svc
+          - name: 435_test
+            server: https://kubernetes.default.svc
+          - name: 436_test
+            server: https://kubernetes.default.svc
+          - name: 437_test
+            server: https://kubernetes.default.svc
+          - name: 438_test
+            server: https://kubernetes.default.svc
+          - name: 439_test
+            server: https://kubernetes.default.svc
+          - name: 440_test
+            server: https://kubernetes.default.svc
+          - name: 441_test
+            server: https://kubernetes.default.svc
+          - name: 442_test
+            server: https://kubernetes.default.svc
+          - name: 443_test
+            server: https://kubernetes.default.svc
+          - name: 444_test
+            server: https://kubernetes.default.svc
+          - name: 445_test
+            server: https://kubernetes.default.svc
+          - name: 446_test
+            server: https://kubernetes.default.svc
+          - name: 447_test
+            server: https://kubernetes.default.svc
+          - name: 448_test
+            server: https://kubernetes.default.svc
+          - name: 449_test
+            server: https://kubernetes.default.svc
+          - name: 450_test
+            server: https://kubernetes.default.svc
+          - name: 451_test
+            server: https://kubernetes.default.svc
+          - name: 452_test
+            server: https://kubernetes.default.svc
+          - name: 453_test
+            server: https://kubernetes.default.svc
+          - name: 454_test
+            server: https://kubernetes.default.svc
+          - name: 455_test
+            server: https://kubernetes.default.svc
+          - name: 456_test
+            server: https://kubernetes.default.svc
+          - name: 457_test
+            server: https://kubernetes.default.svc
+          - name: 458_test
+            server: https://kubernetes.default.svc
+          - name: 459_test
+            server: https://kubernetes.default.svc
+          - name: 460_test
+            server: https://kubernetes.default.svc
+          - name: 461_test
+            server: https://kubernetes.default.svc
+          - name: 462_test
+            server: https://kubernetes.default.svc
+          - name: 463_test
+            server: https://kubernetes.default.svc
+          - name: 464_test
+            server: https://kubernetes.default.svc
+          - name: 465_test
+            server: https://kubernetes.default.svc
+          - name: 466_test
+            server: https://kubernetes.default.svc
+          - name: 467_test
+            server: https://kubernetes.default.svc
+          - name: 468_test
+            server: https://kubernetes.default.svc
+          - name: 469_test
+            server: https://kubernetes.default.svc
+          - name: 470_test
+            server: https://kubernetes.default.svc
+          - name: 471_test
+            server: https://kubernetes.default.svc
+          - name: 472_test
+            server: https://kubernetes.default.svc
+          - name: 473_test
+            server: https://kubernetes.default.svc
+          - name: 474_test
+            server: https://kubernetes.default.svc
+          - name: 475_test
+            server: https://kubernetes.default.svc
+          - name: 476_test
+            server: https://kubernetes.default.svc
+          - name: 477_test
+            server: https://kubernetes.default.svc
+          - name: 478_test
+            server: https://kubernetes.default.svc
+          - name: 479_test
+            server: https://kubernetes.default.svc
+          - name: 480_test
+            server: https://kubernetes.default.svc
+          - name: 481_test
+            server: https://kubernetes.default.svc
+          - name: 482_test
+            server: https://kubernetes.default.svc
+          - name: 483_test
+            server: https://kubernetes.default.svc
+          - name: 484_test
+            server: https://kubernetes.default.svc
+          - name: 485_test
+            server: https://kubernetes.default.svc
+          - name: 486_test
+            server: https://kubernetes.default.svc
+          - name: 487_test
+            server: https://kubernetes.default.svc
+          - name: 488_test
+            server: https://kubernetes.default.svc
+          - name: 489_test
+            server: https://kubernetes.default.svc
+          - name: 490_test
+            server: https://kubernetes.default.svc
+          - name: 491_test
+            server: https://kubernetes.default.svc
+          - name: 492_test
+            server: https://kubernetes.default.svc
+          - name: 493_test
+            server: https://kubernetes.default.svc
+          - name: 494_test
+            server: https://kubernetes.default.svc
+          - name: 495_test
+            server: https://kubernetes.default.svc
+          - name: 496_test
+            server: https://kubernetes.default.svc
+          - name: 497_test
+            server: https://kubernetes.default.svc
+          - name: 498_test
+            server: https://kubernetes.default.svc
+          - name: 499_test
+            server: https://kubernetes.default.svc
+          - name: 500_test
+            server: https://kubernetes.default.svc
+          - name: 501_test
+            server: https://kubernetes.default.svc
+          - name: 502_test
+            server: https://kubernetes.default.svc
+          - name: 503_test
+            server: https://kubernetes.default.svc
+          - name: 504_test
+            server: https://kubernetes.default.svc
+          - name: 505_test
+            server: https://kubernetes.default.svc
+          - name: 506_test
+            server: https://kubernetes.default.svc
+          - name: 507_test
+            server: https://kubernetes.default.svc
+          - name: 508_test
+            server: https://kubernetes.default.svc
+          - name: 509_test
+            server: https://kubernetes.default.svc
+          - name: 510_test
+            server: https://kubernetes.default.svc
+          - name: 511_test
+            server: https://kubernetes.default.svc
+          - name: 512_test
+            server: https://kubernetes.default.svc
+          - name: 513_test
+            server: https://kubernetes.default.svc
+          - name: 514_test
+            server: https://kubernetes.default.svc
+          - name: 515_test
+            server: https://kubernetes.default.svc
+          - name: 516_test
+            server: https://kubernetes.default.svc
+          - name: 517_test
+            server: https://kubernetes.default.svc
+          - name: 518_test
+            server: https://kubernetes.default.svc
+          - name: 519_test
+            server: https://kubernetes.default.svc
+          - name: 520_test
+            server: https://kubernetes.default.svc
+          - name: 521_test
+            server: https://kubernetes.default.svc
+          - name: 522_test
+            server: https://kubernetes.default.svc
+          - name: 523_test
+            server: https://kubernetes.default.svc
+          - name: 524_test
+            server: https://kubernetes.default.svc
+          - name: 525_test
+            server: https://kubernetes.default.svc
+          - name: 526_test
+            server: https://kubernetes.default.svc
+          - name: 527_test
+            server: https://kubernetes.default.svc
+          - name: 528_test
+            server: https://kubernetes.default.svc
+          - name: 529_test
+            server: https://kubernetes.default.svc
+          - name: 530_test
+            server: https://kubernetes.default.svc
+          - name: 531_test
+            server: https://kubernetes.default.svc
+          - name: 532_test
+            server: https://kubernetes.default.svc
+          - name: 533_test
+            server: https://kubernetes.default.svc
+          - name: 534_test
+            server: https://kubernetes.default.svc
+          - name: 535_test
+            server: https://kubernetes.default.svc
+          - name: 536_test
+            server: https://kubernetes.default.svc
+          - name: 537_test
+            server: https://kubernetes.default.svc
+          - name: 538_test
+            server: https://kubernetes.default.svc
+          - name: 539_test
+            server: https://kubernetes.default.svc
+          - name: 540_test
+            server: https://kubernetes.default.svc
+          - name: 541_test
+            server: https://kubernetes.default.svc
+          - name: 542_test
+            server: https://kubernetes.default.svc
+          - name: 543_test
+            server: https://kubernetes.default.svc
+          - name: 544_test
+            server: https://kubernetes.default.svc
+          - name: 545_test
+            server: https://kubernetes.default.svc
+          - name: 546_test
+            server: https://kubernetes.default.svc
+          - name: 547_test
+            server: https://kubernetes.default.svc
+          - name: 548_test
+            server: https://kubernetes.default.svc
+          - name: 549_test
+            server: https://kubernetes.default.svc
+          - name: 550_test
+            server: https://kubernetes.default.svc
+          - name: 551_test
+            server: https://kubernetes.default.svc
+          - name: 552_test
+            server: https://kubernetes.default.svc
+          - name: 553_test
+            server: https://kubernetes.default.svc
+          - name: 554_test
+            server: https://kubernetes.default.svc
+          - name: 555_test
+            server: https://kubernetes.default.svc
+          - name: 556_test
+            server: https://kubernetes.default.svc
+          - name: 557_test
+            server: https://kubernetes.default.svc
+          - name: 558_test
+            server: https://kubernetes.default.svc
+          - name: 559_test
+            server: https://kubernetes.default.svc
+          - name: 560_test
+            server: https://kubernetes.default.svc
+          - name: 561_test
+            server: https://kubernetes.default.svc
+          - name: 562_test
+            server: https://kubernetes.default.svc
+          - name: 563_test
+            server: https://kubernetes.default.svc
+          - name: 564_test
+            server: https://kubernetes.default.svc
+          - name: 565_test
+            server: https://kubernetes.default.svc
+          - name: 566_test
+            server: https://kubernetes.default.svc
+          - name: 567_test
+            server: https://kubernetes.default.svc
+          - name: 568_test
+            server: https://kubernetes.default.svc
+          - name: 569_test
+            server: https://kubernetes.default.svc
+          - name: 570_test
+            server: https://kubernetes.default.svc
+          - name: 571_test
+            server: https://kubernetes.default.svc
+          - name: 572_test
+            server: https://kubernetes.default.svc
+          - name: 573_test
+            server: https://kubernetes.default.svc
+          - name: 574_test
+            server: https://kubernetes.default.svc
+          - name: 575_test
+            server: https://kubernetes.default.svc
+          - name: 576_test
+            server: https://kubernetes.default.svc
+          - name: 577_test
+            server: https://kubernetes.default.svc
+          - name: 578_test
+            server: https://kubernetes.default.svc
+          - name: 579_test
+            server: https://kubernetes.default.svc
+          - name: 580_test
+            server: https://kubernetes.default.svc
+          - name: 581_test
+            server: https://kubernetes.default.svc
+          - name: 582_test
+            server: https://kubernetes.default.svc
+          - name: 583_test
+            server: https://kubernetes.default.svc
+          - name: 584_test
+            server: https://kubernetes.default.svc
+          - name: 585_test
+            server: https://kubernetes.default.svc
+          - name: 586_test
+            server: https://kubernetes.default.svc
+          - name: 587_test
+            server: https://kubernetes.default.svc
+          - name: 588_test
+            server: https://kubernetes.default.svc
+          - name: 589_test
+            server: https://kubernetes.default.svc
+          - name: 590_test
+            server: https://kubernetes.default.svc
+          - name: 591_test
+            server: https://kubernetes.default.svc
+          - name: 592_test
+            server: https://kubernetes.default.svc
+          - name: 593_test
+            server: https://kubernetes.default.svc
+          - name: 594_test
+            server: https://kubernetes.default.svc
+          - name: 595_test
+            server: https://kubernetes.default.svc
+          - name: 596_test
+            server: https://kubernetes.default.svc
+          - name: 597_test
+            server: https://kubernetes.default.svc
+          - name: 598_test
+            server: https://kubernetes.default.svc
+          - name: 599_test
+            server: https://kubernetes.default.svc
+          - name: 600_test
+            server: https://kubernetes.default.svc
+          - name: 601_test
+            server: https://kubernetes.default.svc
+          - name: 602_test
+            server: https://kubernetes.default.svc
+          - name: 603_test
+            server: https://kubernetes.default.svc
+          - name: 604_test
+            server: https://kubernetes.default.svc
+          - name: 605_test
+            server: https://kubernetes.default.svc
+          - name: 606_test
+            server: https://kubernetes.default.svc
+          - name: 607_test
+            server: https://kubernetes.default.svc
+          - name: 608_test
+            server: https://kubernetes.default.svc
+          - name: 609_test
+            server: https://kubernetes.default.svc
+          - name: 610_test
+            server: https://kubernetes.default.svc
+          - name: 611_test
+            server: https://kubernetes.default.svc
+          - name: 612_test
+            server: https://kubernetes.default.svc
+          - name: 613_test
+            server: https://kubernetes.default.svc
+          - name: 614_test
+            server: https://kubernetes.default.svc
+          - name: 615_test
+            server: https://kubernetes.default.svc
+          - name: 616_test
+            server: https://kubernetes.default.svc
+          - name: 617_test
+            server: https://kubernetes.default.svc
+          - name: 618_test
+            server: https://kubernetes.default.svc
+          - name: 619_test
+            server: https://kubernetes.default.svc
+          - name: 620_test
+            server: https://kubernetes.default.svc
+          - name: 621_test
+            server: https://kubernetes.default.svc
+          - name: 622_test
+            server: https://kubernetes.default.svc
+          - name: 623_test
+            server: https://kubernetes.default.svc
+          - name: 624_test
+            server: https://kubernetes.default.svc
+          - name: 625_test
+            server: https://kubernetes.default.svc
+          - name: 626_test
+            server: https://kubernetes.default.svc
+          - name: 627_test
+            server: https://kubernetes.default.svc
+          - name: 628_test
+            server: https://kubernetes.default.svc
+          - name: 629_test
+            server: https://kubernetes.default.svc
+          - name: 630_test
+            server: https://kubernetes.default.svc
+          - name: 631_test
+            server: https://kubernetes.default.svc
+          - name: 632_test
+            server: https://kubernetes.default.svc
+          - name: 633_test
+            server: https://kubernetes.default.svc
+          - name: 634_test
+            server: https://kubernetes.default.svc
+          - name: 635_test
+            server: https://kubernetes.default.svc
+          - name: 636_test
+            server: https://kubernetes.default.svc
+          - name: 637_test
+            server: https://kubernetes.default.svc
+          - name: 638_test
+            server: https://kubernetes.default.svc
+          - name: 639_test
+            server: https://kubernetes.default.svc
+          - name: 640_test
+            server: https://kubernetes.default.svc
+          - name: 641_test
+            server: https://kubernetes.default.svc
+          - name: 642_test
+            server: https://kubernetes.default.svc
+          - name: 643_test
+            server: https://kubernetes.default.svc
+          - name: 644_test
+            server: https://kubernetes.default.svc
+          - name: 645_test
+            server: https://kubernetes.default.svc
+          - name: 646_test
+            server: https://kubernetes.default.svc
+          - name: 647_test
+            server: https://kubernetes.default.svc
+          - name: 648_test
+            server: https://kubernetes.default.svc
+          - name: 649_test
+            server: https://kubernetes.default.svc
+          - name: 650_test
+            server: https://kubernetes.default.svc
+          - name: 651_test
+            server: https://kubernetes.default.svc
+          - name: 652_test
+            server: https://kubernetes.default.svc
+          - name: 653_test
+            server: https://kubernetes.default.svc
+          - name: 654_test
+            server: https://kubernetes.default.svc
+          - name: 655_test
+            server: https://kubernetes.default.svc
+          - name: 656_test
+            server: https://kubernetes.default.svc
+          - name: 657_test
+            server: https://kubernetes.default.svc
+          - name: 658_test
+            server: https://kubernetes.default.svc
+          - name: 659_test
+            server: https://kubernetes.default.svc
+          - name: 660_test
+            server: https://kubernetes.default.svc
+          - name: 661_test
+            server: https://kubernetes.default.svc
+          - name: 662_test
+            server: https://kubernetes.default.svc
+          - name: 663_test
+            server: https://kubernetes.default.svc
+          - name: 664_test
+            server: https://kubernetes.default.svc
+          - name: 665_test
+            server: https://kubernetes.default.svc
+          - name: 666_test
+            server: https://kubernetes.default.svc
+          - name: 667_test
+            server: https://kubernetes.default.svc
+          - name: 668_test
+            server: https://kubernetes.default.svc
+          - name: 669_test
+            server: https://kubernetes.default.svc
+          - name: 670_test
+            server: https://kubernetes.default.svc
+          - name: 671_test
+            server: https://kubernetes.default.svc
+          - name: 672_test
+            server: https://kubernetes.default.svc
+          - name: 673_test
+            server: https://kubernetes.default.svc
+          - name: 674_test
+            server: https://kubernetes.default.svc
+          - name: 675_test
+            server: https://kubernetes.default.svc
+          - name: 676_test
+            server: https://kubernetes.default.svc
+          - name: 677_test
+            server: https://kubernetes.default.svc
+          - name: 678_test
+            server: https://kubernetes.default.svc
+          - name: 679_test
+            server: https://kubernetes.default.svc
+          - name: 680_test
+            server: https://kubernetes.default.svc
+          - name: 681_test
+            server: https://kubernetes.default.svc
+          - name: 682_test
+            server: https://kubernetes.default.svc
+          - name: 683_test
+            server: https://kubernetes.default.svc
+          - name: 684_test
+            server: https://kubernetes.default.svc
+          - name: 685_test
+            server: https://kubernetes.default.svc
+          - name: 686_test
+            server: https://kubernetes.default.svc
+          - name: 687_test
+            server: https://kubernetes.default.svc
+          - name: 688_test
+            server: https://kubernetes.default.svc
+          - name: 689_test
+            server: https://kubernetes.default.svc
+          - name: 690_test
+            server: https://kubernetes.default.svc
+          - name: 691_test
+            server: https://kubernetes.default.svc
+          - name: 692_test
+            server: https://kubernetes.default.svc
+          - name: 693_test
+            server: https://kubernetes.default.svc
+          - name: 694_test
+            server: https://kubernetes.default.svc
+          - name: 695_test
+            server: https://kubernetes.default.svc
+          - name: 696_test
+            server: https://kubernetes.default.svc
+          - name: 697_test
+            server: https://kubernetes.default.svc
+          - name: 698_test
+            server: https://kubernetes.default.svc
+          - name: 699_test
+            server: https://kubernetes.default.svc
+          - name: 700_test
+            server: https://kubernetes.default.svc
+          - name: 701_test
+            server: https://kubernetes.default.svc
+          - name: 702_test
+            server: https://kubernetes.default.svc
+          - name: 703_test
+            server: https://kubernetes.default.svc
+          - name: 704_test
+            server: https://kubernetes.default.svc
+          - name: 705_test
+            server: https://kubernetes.default.svc
+          - name: 706_test
+            server: https://kubernetes.default.svc
+          - name: 707_test
+            server: https://kubernetes.default.svc
+          - name: 708_test
+            server: https://kubernetes.default.svc
+          - name: 709_test
+            server: https://kubernetes.default.svc
+          - name: 710_test
+            server: https://kubernetes.default.svc
+          - name: 711_test
+            server: https://kubernetes.default.svc
+          - name: 712_test
+            server: https://kubernetes.default.svc
+          - name: 713_test
+            server: https://kubernetes.default.svc
+          - name: 714_test
+            server: https://kubernetes.default.svc
+          - name: 715_test
+            server: https://kubernetes.default.svc
+          - name: 716_test
+            server: https://kubernetes.default.svc
+          - name: 717_test
+            server: https://kubernetes.default.svc
+          - name: 718_test
+            server: https://kubernetes.default.svc
+          - name: 719_test
+            server: https://kubernetes.default.svc
+          - name: 720_test
+            server: https://kubernetes.default.svc
+          - name: 721_test
+            server: https://kubernetes.default.svc
+          - name: 722_test
+            server: https://kubernetes.default.svc
+          - name: 723_test
+            server: https://kubernetes.default.svc
+          - name: 724_test
+            server: https://kubernetes.default.svc
+          - name: 725_test
+            server: https://kubernetes.default.svc
+          - name: 726_test
+            server: https://kubernetes.default.svc
+          - name: 727_test
+            server: https://kubernetes.default.svc
+          - name: 728_test
+            server: https://kubernetes.default.svc
+          - name: 729_test
+            server: https://kubernetes.default.svc
+          - name: 730_test
+            server: https://kubernetes.default.svc
+          - name: 731_test
+            server: https://kubernetes.default.svc
+          - name: 732_test
+            server: https://kubernetes.default.svc
+          - name: 733_test
+            server: https://kubernetes.default.svc
+          - name: 734_test
+            server: https://kubernetes.default.svc
+          - name: 735_test
+            server: https://kubernetes.default.svc
+          - name: 736_test
+            server: https://kubernetes.default.svc
+          - name: 737_test
+            server: https://kubernetes.default.svc
+          - name: 738_test
+            server: https://kubernetes.default.svc
+          - name: 739_test
+            server: https://kubernetes.default.svc
+          - name: 740_test
+            server: https://kubernetes.default.svc
+          - name: 741_test
+            server: https://kubernetes.default.svc
+          - name: 742_test
+            server: https://kubernetes.default.svc
+          - name: 743_test
+            server: https://kubernetes.default.svc
+          - name: 744_test
+            server: https://kubernetes.default.svc
+          - name: 745_test
+            server: https://kubernetes.default.svc
+          - name: 746_test
+            server: https://kubernetes.default.svc
+          - name: 747_test
+            server: https://kubernetes.default.svc
+          - name: 748_test
+            server: https://kubernetes.default.svc
+          - name: 749_test
+            server: https://kubernetes.default.svc
+          - name: 750_test
+            server: https://kubernetes.default.svc
+          - name: 751_test
+            server: https://kubernetes.default.svc
+          - name: 752_test
+            server: https://kubernetes.default.svc
+          - name: 753_test
+            server: https://kubernetes.default.svc
+          - name: 754_test
+            server: https://kubernetes.default.svc
+          - name: 755_test
+            server: https://kubernetes.default.svc
+          - name: 756_test
+            server: https://kubernetes.default.svc
+          - name: 757_test
+            server: https://kubernetes.default.svc
+          - name: 758_test
+            server: https://kubernetes.default.svc
+          - name: 759_test
+            server: https://kubernetes.default.svc
+          - name: 760_test
+            server: https://kubernetes.default.svc
+          - name: 761_test
+            server: https://kubernetes.default.svc
+          - name: 762_test
+            server: https://kubernetes.default.svc
+          - name: 763_test
+            server: https://kubernetes.default.svc
+          - name: 764_test
+            server: https://kubernetes.default.svc
+          - name: 765_test
+            server: https://kubernetes.default.svc
+          - name: 766_test
+            server: https://kubernetes.default.svc
+          - name: 767_test
+            server: https://kubernetes.default.svc
+          - name: 768_test
+            server: https://kubernetes.default.svc
+          - name: 769_test
+            server: https://kubernetes.default.svc
+          - name: 770_test
+            server: https://kubernetes.default.svc
+          - name: 771_test
+            server: https://kubernetes.default.svc
+          - name: 772_test
+            server: https://kubernetes.default.svc
+          - name: 773_test
+            server: https://kubernetes.default.svc
+          - name: 774_test
+            server: https://kubernetes.default.svc
+          - name: 775_test
+            server: https://kubernetes.default.svc
+          - name: 776_test
+            server: https://kubernetes.default.svc
+          - name: 777_test
+            server: https://kubernetes.default.svc
+          - name: 778_test
+            server: https://kubernetes.default.svc
+          - name: 779_test
+            server: https://kubernetes.default.svc
+          - name: 780_test
+            server: https://kubernetes.default.svc
+          - name: 781_test
+            server: https://kubernetes.default.svc
+          - name: 782_test
+            server: https://kubernetes.default.svc
+          - name: 783_test
+            server: https://kubernetes.default.svc
+          - name: 784_test
+            server: https://kubernetes.default.svc
+          - name: 785_test
+            server: https://kubernetes.default.svc
+          - name: 786_test
+            server: https://kubernetes.default.svc
+          - name: 787_test
+            server: https://kubernetes.default.svc
+          - name: 788_test
+            server: https://kubernetes.default.svc
+          - name: 789_test
+            server: https://kubernetes.default.svc
+          - name: 790_test
+            server: https://kubernetes.default.svc
+          - name: 791_test
+            server: https://kubernetes.default.svc
+          - name: 792_test
+            server: https://kubernetes.default.svc
+          - name: 793_test
+            server: https://kubernetes.default.svc
+          - name: 794_test
+            server: https://kubernetes.default.svc
+          - name: 795_test
+            server: https://kubernetes.default.svc
+          - name: 796_test
+            server: https://kubernetes.default.svc
+          - name: 797_test
+            server: https://kubernetes.default.svc
+          - name: 798_test
+            server: https://kubernetes.default.svc
+          - name: 799_test
+            server: https://kubernetes.default.svc
+          - name: 800_test
+            server: https://kubernetes.default.svc
+          - name: 801_test
+            server: https://kubernetes.default.svc
+          - name: 802_test
+            server: https://kubernetes.default.svc
+          - name: 803_test
+            server: https://kubernetes.default.svc
+          - name: 804_test
+            server: https://kubernetes.default.svc
+          - name: 805_test
+            server: https://kubernetes.default.svc
+          - name: 806_test
+            server: https://kubernetes.default.svc
+          - name: 807_test
+            server: https://kubernetes.default.svc
+          - name: 808_test
+            server: https://kubernetes.default.svc
+          - name: 809_test
+            server: https://kubernetes.default.svc
+          - name: 810_test
+            server: https://kubernetes.default.svc
+          - name: 811_test
+            server: https://kubernetes.default.svc
+          - name: 812_test
+            server: https://kubernetes.default.svc
+          - name: 813_test
+            server: https://kubernetes.default.svc
+          - name: 814_test
+            server: https://kubernetes.default.svc
+          - name: 815_test
+            server: https://kubernetes.default.svc
+          - name: 816_test
+            server: https://kubernetes.default.svc
+          - name: 817_test
+            server: https://kubernetes.default.svc
+          - name: 818_test
+            server: https://kubernetes.default.svc
+          - name: 819_test
+            server: https://kubernetes.default.svc
+          - name: 820_test
+            server: https://kubernetes.default.svc
+          - name: 821_test
+            server: https://kubernetes.default.svc
+          - name: 822_test
+            server: https://kubernetes.default.svc
+          - name: 823_test
+            server: https://kubernetes.default.svc
+          - name: 824_test
+            server: https://kubernetes.default.svc
+          - name: 825_test
+            server: https://kubernetes.default.svc
+          - name: 826_test
+            server: https://kubernetes.default.svc
+          - name: 827_test
+            server: https://kubernetes.default.svc
+          - name: 828_test
+            server: https://kubernetes.default.svc
+          - name: 829_test
+            server: https://kubernetes.default.svc
+          - name: 830_test
+            server: https://kubernetes.default.svc
+          - name: 831_test
+            server: https://kubernetes.default.svc
+          - name: 832_test
+            server: https://kubernetes.default.svc
+          - name: 833_test
+            server: https://kubernetes.default.svc
+          - name: 834_test
+            server: https://kubernetes.default.svc
+          - name: 835_test
+            server: https://kubernetes.default.svc
+          - name: 836_test
+            server: https://kubernetes.default.svc
+          - name: 837_test
+            server: https://kubernetes.default.svc
+          - name: 838_test
+            server: https://kubernetes.default.svc
+          - name: 839_test
+            server: https://kubernetes.default.svc
+          - name: 840_test
+            server: https://kubernetes.default.svc
+          - name: 841_test
+            server: https://kubernetes.default.svc
+          - name: 842_test
+            server: https://kubernetes.default.svc
+          - name: 843_test
+            server: https://kubernetes.default.svc
+          - name: 844_test
+            server: https://kubernetes.default.svc
+          - name: 845_test
+            server: https://kubernetes.default.svc
+          - name: 846_test
+            server: https://kubernetes.default.svc
+          - name: 847_test
+            server: https://kubernetes.default.svc
+          - name: 848_test
+            server: https://kubernetes.default.svc
+          - name: 849_test
+            server: https://kubernetes.default.svc
+          - name: 850_test
+            server: https://kubernetes.default.svc
+          - name: 851_test
+            server: https://kubernetes.default.svc
+          - name: 852_test
+            server: https://kubernetes.default.svc
+          - name: 853_test
+            server: https://kubernetes.default.svc
+          - name: 854_test
+            server: https://kubernetes.default.svc
+          - name: 855_test
+            server: https://kubernetes.default.svc
+          - name: 856_test
+            server: https://kubernetes.default.svc
+          - name: 857_test
+            server: https://kubernetes.default.svc
+          - name: 858_test
+            server: https://kubernetes.default.svc
+          - name: 859_test
+            server: https://kubernetes.default.svc
+          - name: 860_test
+            server: https://kubernetes.default.svc
+          - name: 861_test
+            server: https://kubernetes.default.svc
+          - name: 862_test
+            server: https://kubernetes.default.svc
+          - name: 863_test
+            server: https://kubernetes.default.svc
+          - name: 864_test
+            server: https://kubernetes.default.svc
+          - name: 865_test
+            server: https://kubernetes.default.svc
+          - name: 866_test
+            server: https://kubernetes.default.svc
+          - name: 867_test
+            server: https://kubernetes.default.svc
+          - name: 868_test
+            server: https://kubernetes.default.svc
+          - name: 869_test
+            server: https://kubernetes.default.svc
+          - name: 870_test
+            server: https://kubernetes.default.svc
+          - name: 871_test
+            server: https://kubernetes.default.svc
+          - name: 872_test
+            server: https://kubernetes.default.svc
+          - name: 873_test
+            server: https://kubernetes.default.svc
+          - name: 874_test
+            server: https://kubernetes.default.svc
+          - name: 875_test
+            server: https://kubernetes.default.svc
+          - name: 876_test
+            server: https://kubernetes.default.svc
+          - name: 877_test
+            server: https://kubernetes.default.svc
+          - name: 878_test
+            server: https://kubernetes.default.svc
+          - name: 879_test
+            server: https://kubernetes.default.svc
+          - name: 880_test
+            server: https://kubernetes.default.svc
+          - name: 881_test
+            server: https://kubernetes.default.svc
+          - name: 882_test
+            server: https://kubernetes.default.svc
+          - name: 883_test
+            server: https://kubernetes.default.svc
+          - name: 884_test
+            server: https://kubernetes.default.svc
+          - name: 885_test
+            server: https://kubernetes.default.svc
+          - name: 886_test
+            server: https://kubernetes.default.svc
+          - name: 887_test
+            server: https://kubernetes.default.svc
+          - name: 888_test
+            server: https://kubernetes.default.svc
+          - name: 889_test
+            server: https://kubernetes.default.svc
+          - name: 890_test
+            server: https://kubernetes.default.svc
+          - name: 891_test
+            server: https://kubernetes.default.svc
+          - name: 892_test
+            server: https://kubernetes.default.svc
+          - name: 893_test
+            server: https://kubernetes.default.svc
+          - name: 894_test
+            server: https://kubernetes.default.svc
+          - name: 895_test
+            server: https://kubernetes.default.svc
+          - name: 896_test
+            server: https://kubernetes.default.svc
+          - name: 897_test
+            server: https://kubernetes.default.svc
+          - name: 898_test
+            server: https://kubernetes.default.svc
+          - name: 899_test
+            server: https://kubernetes.default.svc
+          - name: 900_test
+            server: https://kubernetes.default.svc
+          - name: 901_test
+            server: https://kubernetes.default.svc
+          - name: 902_test
+            server: https://kubernetes.default.svc
+          - name: 903_test
+            server: https://kubernetes.default.svc
+          - name: 904_test
+            server: https://kubernetes.default.svc
+          - name: 905_test
+            server: https://kubernetes.default.svc
+          - name: 906_test
+            server: https://kubernetes.default.svc
+          - name: 907_test
+            server: https://kubernetes.default.svc
+          - name: 908_test
+            server: https://kubernetes.default.svc
+          - name: 909_test
+            server: https://kubernetes.default.svc
+          - name: 910_test
+            server: https://kubernetes.default.svc
+          - name: 911_test
+            server: https://kubernetes.default.svc
+          - name: 912_test
+            server: https://kubernetes.default.svc
+          - name: 913_test
+            server: https://kubernetes.default.svc
+          - name: 914_test
+            server: https://kubernetes.default.svc
+          - name: 915_test
+            server: https://kubernetes.default.svc
+          - name: 916_test
+            server: https://kubernetes.default.svc
+          - name: 917_test
+            server: https://kubernetes.default.svc
+          - name: 918_test
+            server: https://kubernetes.default.svc
+          - name: 919_test
+            server: https://kubernetes.default.svc
+          - name: 920_test
+            server: https://kubernetes.default.svc
+          - name: 921_test
+            server: https://kubernetes.default.svc
+          - name: 922_test
+            server: https://kubernetes.default.svc
+          - name: 923_test
+            server: https://kubernetes.default.svc
+          - name: 924_test
+            server: https://kubernetes.default.svc
+          - name: 925_test
+            server: https://kubernetes.default.svc
+          - name: 926_test
+            server: https://kubernetes.default.svc
+          - name: 927_test
+            server: https://kubernetes.default.svc
+          - name: 928_test
+            server: https://kubernetes.default.svc
+          - name: 929_test
+            server: https://kubernetes.default.svc
+          - name: 930_test
+            server: https://kubernetes.default.svc
+          - name: 931_test
+            server: https://kubernetes.default.svc
+          - name: 932_test
+            server: https://kubernetes.default.svc
+          - name: 933_test
+            server: https://kubernetes.default.svc
+          - name: 934_test
+            server: https://kubernetes.default.svc
+          - name: 935_test
+            server: https://kubernetes.default.svc
+          - name: 936_test
+            server: https://kubernetes.default.svc
+          - name: 937_test
+            server: https://kubernetes.default.svc
+          - name: 938_test
+            server: https://kubernetes.default.svc
+          - name: 939_test
+            server: https://kubernetes.default.svc
+          - name: 940_test
+            server: https://kubernetes.default.svc
+          - name: 941_test
+            server: https://kubernetes.default.svc
+          - name: 942_test
+            server: https://kubernetes.default.svc
+          - name: 943_test
+            server: https://kubernetes.default.svc
+          - name: 944_test
+            server: https://kubernetes.default.svc
+          - name: 945_test
+            server: https://kubernetes.default.svc
+          - name: 946_test
+            server: https://kubernetes.default.svc
+          - name: 947_test
+            server: https://kubernetes.default.svc
+          - name: 948_test
+            server: https://kubernetes.default.svc
+          - name: 949_test
+            server: https://kubernetes.default.svc
+          - name: 950_test
+            server: https://kubernetes.default.svc
+          - name: 951_test
+            server: https://kubernetes.default.svc
+          - name: 952_test
+            server: https://kubernetes.default.svc
+          - name: 953_test
+            server: https://kubernetes.default.svc
+          - name: 954_test
+            server: https://kubernetes.default.svc
+          - name: 955_test
+            server: https://kubernetes.default.svc
+          - name: 956_test
+            server: https://kubernetes.default.svc
+          - name: 957_test
+            server: https://kubernetes.default.svc
+          - name: 958_test
+            server: https://kubernetes.default.svc
+          - name: 959_test
+            server: https://kubernetes.default.svc
+          - name: 960_test
+            server: https://kubernetes.default.svc
+          - name: 961_test
+            server: https://kubernetes.default.svc
+          - name: 962_test
+            server: https://kubernetes.default.svc
+          - name: 963_test
+            server: https://kubernetes.default.svc
+          - name: 964_test
+            server: https://kubernetes.default.svc
+          - name: 965_test
+            server: https://kubernetes.default.svc
+          - name: 966_test
+            server: https://kubernetes.default.svc
+          - name: 967_test
+            server: https://kubernetes.default.svc
+          - name: 968_test
+            server: https://kubernetes.default.svc
+          - name: 969_test
+            server: https://kubernetes.default.svc
+          - name: 970_test
+            server: https://kubernetes.default.svc
+          - name: 971_test
+            server: https://kubernetes.default.svc
+          - name: 972_test
+            server: https://kubernetes.default.svc
+          - name: 973_test
+            server: https://kubernetes.default.svc
+          - name: 974_test
+            server: https://kubernetes.default.svc
+          - name: 975_test
+            server: https://kubernetes.default.svc
+          - name: 976_test
+            server: https://kubernetes.default.svc
+          - name: 977_test
+            server: https://kubernetes.default.svc
+          - name: 978_test
+            server: https://kubernetes.default.svc
+          - name: 979_test
+            server: https://kubernetes.default.svc
+          - name: 980_test
+            server: https://kubernetes.default.svc
+          - name: 981_test
+            server: https://kubernetes.default.svc
+          - name: 982_test
+            server: https://kubernetes.default.svc
+          - name: 983_test
+            server: https://kubernetes.default.svc
+          - name: 984_test
+            server: https://kubernetes.default.svc
+          - name: 985_test
+            server: https://kubernetes.default.svc
+          - name: 986_test
+            server: https://kubernetes.default.svc
+          - name: 987_test
+            server: https://kubernetes.default.svc
+          - name: 988_test
+            server: https://kubernetes.default.svc
+          - name: 989_test
+            server: https://kubernetes.default.svc
+          - name: 990_test
+            server: https://kubernetes.default.svc
+          - name: 991_test
+            server: https://kubernetes.default.svc
+          - name: 992_test
+            server: https://kubernetes.default.svc
+          - name: 993_test
+            server: https://kubernetes.default.svc
+          - name: 994_test
+            server: https://kubernetes.default.svc
+          - name: 995_test
+            server: https://kubernetes.default.svc
+          - name: 996_test
+            server: https://kubernetes.default.svc
+          - name: 997_test
+            server: https://kubernetes.default.svc
+          - name: 998_test
+            server: https://kubernetes.default.svc
+          - name: 999_test
+            server: https://kubernetes.default.svc
+          - name: 1000_test
             server: https://kubernetes.default.svc
   template:
     # This is a template Argo CD Application, but with support for parameter substitution.
