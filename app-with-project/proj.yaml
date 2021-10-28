@@ -12,7 +12,7 @@ metadata:
       manager: main
       operation: Update
       time: "2021-10-07T13:17:16Z"
-  name: pasha-test2
+  name: pasha-test3
   namespace: argocd
   resourceVersion: "29958436"
   selfLink: /apis/argoproj.io/v1alpha1/namespaces/argocd/appprojects/pasha-test
