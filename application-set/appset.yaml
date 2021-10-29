@@ -441,8 +441,6 @@ spec:
             server: https://kubernetes.default.svc
           - name: test217
             server: https://kubernetes.default.svc
-          - name: test218
-            server: https://kubernetes.default.svc
           - name: test219
             server: https://kubernetes.default.svc
           - name: test220
