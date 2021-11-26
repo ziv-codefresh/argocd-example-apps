@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="da9b0587-ff93-4770-8377-2ac4488acd84" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SIGN_OFF_COMMIT" value="true" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="ed30c95b-73d6-452b-9634-14edc00634ef" />
+  </component>
+  <component name="ProjectId" id="1wB8Q2jmxkjRBloTtcVOMNpwyit" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app-with-project" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app-with-project" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="da9b0587-ff93-4770-8377-2ac4488acd84" name="Default Changelist" comment="" />
+      <created>1627920601706</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1627920601706</updated>
+      <workItem from="1627920602835" duration="5974000" />
+      <workItem from="1628354652020" duration="4970000" />
+      <workItem from="1629229255371" duration="439000" />
+      <workItem from="1634070039562" duration="1890000" />
+      <workItem from="1634141561823" duration="664000" />
+      <workItem from="1634740637873" duration="2799000" />
+      <workItem from="1635173564234" duration="7034000" />
+      <workItem from="1635521944666" duration="3898000" />
+      <workItem from="1637936186100" duration="1480000" />
+    </task>
+    <task id="LOCAL-00006" summary="change app">
+      <created>1634070160011</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1634070160011</updated>
+    </task>
+    <task id="LOCAL-00007" summary="change policy">
+      <created>1634070419883</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1634070419883</updated>
+    </task>
+    <task id="LOCAL-00008" summary="change policy">
+      <created>1634070662886</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1634070662886</updated>
+    </task>
+    <task id="LOCAL-00009" summary="change policy">
+      <created>1634110129057</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1634110129057</updated>
+    </task>
+    <task id="LOCAL-00010" summary="change policy">
+      <created>1634142562924</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1634142562924</updated>
+    </task>
+    <task id="LOCAL-00011" summary="change policy">
+      <created>1634142736763</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1634142736763</updated>
+    </task>
+    <task id="LOCAL-00012" summary="change">
+      <created>1634740773621</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1634740773621</updated>
+    </task>
+    <task id="LOCAL-00013" summary="change">
+      <created>1634741460243</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1634741460243</updated>
+    </task>
+    <task id="LOCAL-00014" summary="change">
+      <created>1634741538673</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1634741538673</updated>
+    </task>
+    <task id="LOCAL-00015" summary="change">
+      <created>1634741654081</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1634741654081</updated>
+    </task>
+    <task id="LOCAL-00016" summary="change">
+      <created>1634742013446</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1634742013446</updated>
+    </task>
+    <task id="LOCAL-00017" summary="change">
+      <created>1634742132401</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1634742132401</updated>
+    </task>
+    <task id="LOCAL-00018" summary="change">
+      <created>1634742448323</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1634742448323</updated>
+    </task>
+    <task id="LOCAL-00019" summary="change">
+      <created>1634742608968</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1634742608968</updated>
+    </task>
+    <task id="LOCAL-00020" summary="change">
+      <created>1634742733987</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1634742733987</updated>
+    </task>
+    <task id="LOCAL-00021" summary="change">
+      <created>1634742799759</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1634742799759</updated>
+    </task>
+    <task id="LOCAL-00022" summary="change">
+      <created>1634743063084</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1634743063084</updated>
+    </task>
+    <task id="LOCAL-00023" summary="change">
+      <created>1634744043976</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1634744043976</updated>
+    </task>
+    <task id="LOCAL-00024" summary="change">
+      <created>1634744680638</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1634744680638</updated>
+    </task>
+    <task id="LOCAL-00025" summary="change">
+      <created>1634744928554</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1634744928554</updated>
+    </task>
+    <task id="LOCAL-00026" summary="add appset">
+      <created>1635173606596</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1635173606596</updated>
+    </task>
+    <task id="LOCAL-00027" summary="rename">
+      <created>1635174413180</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1635174413180</updated>
+    </task>
+    <task id="LOCAL-00028" summary="rename">
+      <created>1635174548745</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1635174548745</updated>
+    </task>
+    <task id="LOCAL-00029" summary="change cluster">
+      <created>1635174709854</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1635174709854</updated>
+    </task>
+    <task id="LOCAL-00030" summary="change namespace">
+      <created>1635176510479</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1635176510479</updated>
+    </task>
+    <task id="LOCAL-00031" summary="change namespace">
+      <created>1635240797436</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1635240797436</updated>
+    </task>
+    <task id="LOCAL-00032" summary="change namespace">
+      <created>1635240936873</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1635240936873</updated>
+    </task>
+    <task id="LOCAL-00033" summary="change namespace">
+      <created>1635241094455</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1635241094455</updated>
+    </task>
+    <task id="LOCAL-00034" summary="change project">
+      <created>1635259108762</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1635259108762</updated>
+    </task>
+    <task id="LOCAL-00035" summary="remove">
+      <created>1635336395413</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1635336395413</updated>
+    </task>
+    <task id="LOCAL-00036" summary="remove">
+      <created>1635336519413</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1635336519413</updated>
+    </task>
+    <task id="LOCAL-00037" summary="remove">
+      <created>1635336728833</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1635336728833</updated>
+    </task>
+    <task id="LOCAL-00038" summary="remove">
+      <created>1635337730581</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1635337730581</updated>
+    </task>
+    <task id="LOCAL-00039" summary="remove">
+      <created>1635337831144</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1635337831144</updated>
+    </task>
+    <task id="LOCAL-00040" summary="app-with-proj">
+      <created>1635434817417</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1635434817417</updated>
+    </task>
+    <task id="LOCAL-00041" summary="app-with-proj">
+      <created>1635435542395</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1635435542395</updated>
+    </task>
+    <task id="LOCAL-00042" summary="app-with-proj">
+      <created>1635435625822</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1635435625822</updated>
+    </task>
+    <task id="LOCAL-00043" summary="orph">
+      <created>1635435714891</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1635435714891</updated>
+    </task>
+    <task id="LOCAL-00044" summary="change ns">
+      <created>1635440665576</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1635440665576</updated>
+    </task>
+    <task id="LOCAL-00045" summary="rm">
+      <created>1635450407131</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1635450407132</updated>
+    </task>
+    <task id="LOCAL-00046" summary="back">
+      <created>1635450485280</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1635450485280</updated>
+    </task>
+    <task id="LOCAL-00047" summary="back">
+      <created>1635450602164</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1635450602164</updated>
+    </task>
+    <task id="LOCAL-00048" summary="back">
+      <created>1635522269180</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1635522269180</updated>
+    </task>
+    <task id="LOCAL-00049" summary="change proj">
+      <created>1635523307501</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1635523307501</updated>
+    </task>
+    <task id="LOCAL-00050" summary="change proj">
+      <created>1635770289948</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1635770289957</updated>
+    </task>
+    <task id="LOCAL-00051" summary="ddd">
+      <created>1635771560204</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1635771560204</updated>
+    </task>
+    <task id="LOCAL-00052" summary="ddd">
+      <created>1637937004121</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1637937004121</updated>
+    </task>
+    <task id="LOCAL-00053" summary="ddd">
+      <created>1637938418989</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1637938418990</updated>
+    </task>
+    <task id="LOCAL-00054" summary="signed">
+      <created>1637942264592</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1637942264592</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add values for repro an issue" />
+    <MESSAGE value="change helmguesbook" />
+    <MESSAGE value="change app" />
+    <MESSAGE value="change policy" />
+    <MESSAGE value="change" />
+    <MESSAGE value="add appset" />
+    <MESSAGE value="rename" />
+    <MESSAGE value="change cluster" />
+    <MESSAGE value="change namespace" />
+    <MESSAGE value="change project" />
+    <MESSAGE value="remove" />
+    <MESSAGE value="app-with-proj" />
+    <MESSAGE value="orph" />
+    <MESSAGE value="change ns" />
+    <MESSAGE value="rm" />
+    <MESSAGE value="back" />
+    <MESSAGE value="change proj" />
+    <MESSAGE value="ddd" />
+    <MESSAGE value="signed" />
+    <option name="LAST_COMMIT_MESSAGE" value="signed" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="347" y="97" key="CommitChangelistDialog2" timestamp="1637942264430">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="347" y="97" key="CommitChangelistDialog2/-1920.32.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1635176510389" />
+    <state x="347" y="97" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1637942264430" />
+    <state x="440" y="262" key="Vcs.Push.Dialog.v2" timestamp="1637942265966">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="440" y="262" key="Vcs.Push.Dialog.v2/-1920.32.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1635176511500" />
+    <state x="440" y="262" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1637942265966" />
+    <state x="641" y="443" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1635336388629">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="641" y="443" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1680.1050@0.0.1680.1050" timestamp="1635336388629" />
+  </component>
+</project>

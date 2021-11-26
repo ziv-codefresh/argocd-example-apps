@@ -1,0 +1,16 @@
+apiVersion: argoproj.io/v1alpha1
+kind: Application
+metadata:
+  name: foo
+  namespace: default
+  labels:
+    test: {{ .Values.test.foo }}
+spec:
+  project: default
+  source:
+    chart: bar
+    repoURL: https://foo.bar.io
+    targetRevision: 1.2.3
+  destination:
+    namespace: foo
+    server: https://kubernetes.default.svc
