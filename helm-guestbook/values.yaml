@@ -6,7 +6,7 @@ replicaCount: 1
 
 image:
   repository: gcr.io/brb-notary/brb-api
-  tag: 0.1
+  tag: f34cc3
   pullPolicy: IfNotPresent
 
 service:
