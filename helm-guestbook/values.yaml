@@ -5,8 +5,8 @@
 replicaCount: 1
 
 image:
-  repository: gcr.io/brb-notary/brb-api
-  tag: f34cc3
+  repository: gcr.io/heptio-images/ks-guestbook-demo
+  tag: 0.3
   pullPolicy: IfNotPresent
 
 service:
