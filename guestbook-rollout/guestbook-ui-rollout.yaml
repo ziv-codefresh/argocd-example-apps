@@ -9,6 +9,8 @@ spec:
       steps:
         - setWeight: 50
         - pause: {duration: 10}
+        - setWeight: 80
+        - pause: {duration: 10}
   revisionHistoryLimit: 2
   selector:
     matchLabels:
@@ -20,7 +22,7 @@ spec:
     spec:
       containers:
         - name: guestbook-ui
-          image: gcr.io/heptio-images/ks-guestbook-demo:0.2
+          image: gcr.io/heptio-images/ks-guestbook-demo:0.1
           ports:
             - name: http
               containerPort: 8080
