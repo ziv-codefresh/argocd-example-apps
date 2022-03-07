@@ -7,7 +7,6 @@ metadata:
     app: {{ template "helm-guestbook.name" . }}
     chart: {{ template "helm-guestbook.chart" . }}
     release: {{ .Release.Name }}
-    heritage: {{ .Release.Service }}
 spec:
   replicas: {{ .Values.replicaCount }}
   revisionHistoryLimit: 3
@@ -29,25 +28,3 @@ spec:
             - name: http
               containerPort: 802
               protocol: TCP
-          livenessProbe:
-            httpGet:
-              path: /
-              port: http
-          readinessProbe:
-            httpGet:
-              path: /
-              port: http
-          resources:
-{{ toYaml .Values.resources | indent 12 }}
-    {{- with .Values.nodeSelector }}
-      nodeSelector:
-{{ toYaml . | indent 8 }}
-    {{- end }}
-    {{- with .Values.affinity }}
-      affinity:
-{{ toYaml . | indent 8 }}
-    {{- end }}
-    {{- with .Values.tolerations }}
-      tolerations:
-{{ toYaml . | indent 8 }}
-    {{- end }}
