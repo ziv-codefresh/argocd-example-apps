@@ -1,7 +1,7 @@
 apiVersion: argoproj.io/v1alpha1
 kind: Rollout
 metadata:
-  name: guestbook-ui-rollout-2
+  name: guestbook-ui-rollout-3
 spec:
   replicas: 2
   strategy:
