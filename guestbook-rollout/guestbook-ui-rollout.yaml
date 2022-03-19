@@ -1,7 +1,7 @@
 apiVersion: argoproj.io/v1alpha1
 kind: Rollout
 metadata:
-  name: rollout-test-2
+  name: rollout-test-3
 spec:
   replicas: 2
   strategy:
