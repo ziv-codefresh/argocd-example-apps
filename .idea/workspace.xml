@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="da9b0587-ff93-4770-8377-2ac4488acd84" name="Default Changelist" comment="" />
+    <list default="true" id="da9b0587-ff93-4770-8377-2ac4488acd84" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple/svc.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/simple/svc.yaml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,34 +58,7 @@
       <workItem from="1635173564234" duration="7034000" />
       <workItem from="1635521944666" duration="3898000" />
       <workItem from="1637936186100" duration="1480000" />
-    </task>
-    <task id="LOCAL-00006" summary="change app">
-      <created>1634070160011</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1634070160011</updated>
-    </task>
-    <task id="LOCAL-00007" summary="change policy">
-      <created>1634070419883</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1634070419883</updated>
-    </task>
-    <task id="LOCAL-00008" summary="change policy">
-      <created>1634070662886</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1634070662886</updated>
-    </task>
-    <task id="LOCAL-00009" summary="change policy">
-      <created>1634110129057</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1634110129057</updated>
+      <workItem from="1649776528860" duration="1756000" />
     </task>
     <task id="LOCAL-00010" summary="change policy">
       <created>1634142562924</created>
@@ -399,7 +375,35 @@
       <option name="project" value="LOCAL" />
       <updated>1637942264592</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="change ns">
+      <created>1649759296950</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1649759296950</updated>
+    </task>
+    <task id="LOCAL-00056" summary="svc">
+      <created>1649776966225</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1649776966225</updated>
+    </task>
+    <task id="LOCAL-00057" summary="tag">
+      <created>1649846853466</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1649846853467</updated>
+    </task>
+    <task id="LOCAL-00058" summary="tag">
+      <created>1649847557444</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1649847557444</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -419,28 +423,24 @@
     <MESSAGE value="remove" />
     <MESSAGE value="app-with-proj" />
     <MESSAGE value="orph" />
-    <MESSAGE value="change ns" />
     <MESSAGE value="rm" />
     <MESSAGE value="back" />
     <MESSAGE value="change proj" />
     <MESSAGE value="ddd" />
     <MESSAGE value="signed" />
-    <option name="LAST_COMMIT_MESSAGE" value="signed" />
+    <MESSAGE value="change ns" />
+    <MESSAGE value="svc" />
+    <MESSAGE value="tag" />
+    <option name="LAST_COMMIT_MESSAGE" value="tag" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="347" y="97" key="CommitChangelistDialog2" timestamp="1637942264430">
+    <state x="393" y="97" key="CommitChangelistDialog2" timestamp="1649847557347">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="347" y="97" key="CommitChangelistDialog2/-1920.32.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1635176510389" />
-    <state x="347" y="97" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1637942264430" />
-    <state x="440" y="262" key="Vcs.Push.Dialog.v2" timestamp="1637942265966">
+    <state x="393" y="97" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1649847557347" />
+    <state x="440" y="262" key="Vcs.Push.Dialog.v2" timestamp="1649846854457">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="440" y="262" key="Vcs.Push.Dialog.v2/-1920.32.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1635176511500" />
-    <state x="440" y="262" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1637942265966" />
-    <state x="641" y="443" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1635336388629">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state x="641" y="443" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1680.1050@0.0.1680.1050" timestamp="1635336388629" />
+    <state x="440" y="262" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1649846854457" />
   </component>
 </project>
