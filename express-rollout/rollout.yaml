@@ -14,7 +14,7 @@ spec:
         app: express
     spec:
       containers:
-        - image: gcr.io/heptio-images/ks-guestbook-demo:0.2
+        - image: gcr.io/heptio-images/ks-guestbook-demo:0.1
           name: express
           ports:
             - name: http
@@ -26,8 +26,19 @@ spec:
       analysis:
         templates:
           - templateName: pass-always
-          - templateName: mixed-tests
         startingStep: 1 # delay starting analysis run until setWeight: 40%
       steps:
         - setWeight: 25
-        - pause: {duration: 1m}
+        - pause: {duration: 30s}
+        - analysis:
+          templates:
+            - templateName: mixed-tests
+        - experiment:
+            templates:
+            - name: canary
+              specRef: canary
+            # This experiment performs its own analysis by referencing one or more AnalysisTemplates
+            # here. The success or failure of these runs will progress or abort the rollout respectively.
+            analyses:
+            - name: random-fail-exp
+              templateName: random-fail-experiment
