@@ -14,7 +14,7 @@ spec:
         app: express
     spec:
       containers:
-        - image: gcr.io/heptio-images/ks-guestbook-demo:0.1
+        - image: gcr.io/heptio-images/ks-guestbook-demo:0.2
           name: express
           ports:
             - name: http
@@ -34,6 +34,7 @@ spec:
             templates:
             - templateName: mixed-tests
         - experiment:
+            duration: 15s
             templates:
             - name: canary
               specRef: canary
@@ -42,3 +43,4 @@ spec:
             analyses:
             - name: random-fail-experiment
               templateName: mixed-tests-experiment
+              requiredForCompletion: true
