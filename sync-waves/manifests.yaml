@@ -80,7 +80,7 @@ spec:
     spec:
       containers:
         - name: main
-          image: nginx:latest
+          image: nginx:latest-unknown
 ---
 apiVersion: v1
 kind: Service
