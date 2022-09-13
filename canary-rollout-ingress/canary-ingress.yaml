@@ -16,4 +16,4 @@ spec:
           service:
             name: canary-demo
             port: 
-              number: 80
+              number: 3010
