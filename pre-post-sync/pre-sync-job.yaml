@@ -20,8 +20,8 @@ spec:
      spec:
       containers:
       - name: sleep
-        image: alpine:latest
-        command: ["/bin/bash","-c", "sleep 10 && exit 1"]
+        image: busybox
+        command: ["/bin/sh","-c", "sleep 10 && exit 1"]
         imagePullPolicy: Always
         name: datamodel-create
         resources: {}
