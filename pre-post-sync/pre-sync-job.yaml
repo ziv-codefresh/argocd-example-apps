@@ -15,13 +15,9 @@ spec:
   completionMode: NonIndexed
   completions: 1
   parallelism: 1
-  selector:
-    matchLabels:
-      controller-uid: cc13c68b-c885-4666-a2c1-e4210184c3e8
   suspend: false
   template:
     metadata:
-      creationTimestamp: null
       labels:
         app: datamodel
         controller-uid: cc13c68b-c885-4666-a2c1-e4210184c3e8
