@@ -17,7 +17,6 @@ spec:
   parallelism: 1
   suspend: false
   template:
-    metadata:
      spec:
       containers:
       - name: sleep
