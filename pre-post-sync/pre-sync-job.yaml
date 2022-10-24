@@ -28,9 +28,9 @@ spec:
         job-name: datamodel-create-8e34c91-1
     spec:
       containers:
-       - name: sleep
-         image: alpine:latest
-         command: ["sleep", "10"]
+      - name: sleep
+        image: alpine:latest
+        command: ["sleep", "10"]
           imagePullPolicy: Always
           name: datamodel-create
           resources: {}
