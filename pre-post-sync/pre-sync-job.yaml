@@ -8,7 +8,7 @@ metadata:
   labels:
     app: datamodel
   name: datamodel-create-8e34c91-1
-  namespace: nats-deploy-656f35
+  namespace: default
 spec:
   activeDeadlineSeconds: 600
   backoffLimit: 2
