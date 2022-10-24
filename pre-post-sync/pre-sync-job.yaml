@@ -18,11 +18,7 @@ spec:
   suspend: false
   template:
     metadata:
-      labels:
-        app: datamodel
-        controller-uid: cc13c68b-c885-4666-a2c1-e4210184c3e8
-        job-name: datamodel-create-8e34c91-1
-    spec:
+     spec:
       containers:
       - name: sleep
         image: alpine:latest
