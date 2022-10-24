@@ -4,17 +4,11 @@ metadata:
   annotations:
     argocd.argoproj.io/hook: Sync
     argocd.argoproj.io/hook-delete-policy: BeforeHookCreation
-    kubectl.kubernetes.io/last-applied-configuration: >
-      {"apiVersion":"batch/v1","kind":"Job","metadata":{"annotations":{"argocd.argoproj.io/hook":"Sync","argocd.argoproj.io/hook-delete-policy":"BeforeHookCreation"},"labels":{"app":"datamodel","app.kubernetes.io/instance":"datamodel-nats-deploy-656f35-us-east-2"},"name":"datamodel-create-8e34c91-1","namespace":"nats-deploy-656f35"},"spec":{"activeDeadlineSeconds":600,"backoffLimit":2,"template":{"metadata":{"labels":{"app":"datamodel"}},"spec":{"containers":[{"command":["npm","run","migrate:create","--","$(SM_BRANCH)_$(SM_BRANCH_SHA)"],"env":[{"name":"SM_COCKROACH_BACKUP_URL","valueFrom":{"secretKeyRef":{"key":"SM_COCKROACH_BACKUP_URL","name":"cockroach-s3-backup-url"}}},{"name":"SM_DB_PASSWORD","valueFrom":{"secretKeyRef":{"key":"password","name":"cockroach-password"}}},{"name":"SM_MOTOR_PRIVATE_KEY","valueFrom":{"secretKeyRef":{"key":"SM_MOTOR_PRIVATE_KEY","name":"motor-private-key"}}},{"name":"SM_JWT_SECRET","valueFrom":{"secretKeyRef":{"key":"SM_JWT_SECRET","name":"api-secrets"}}},{"name":"SM_REDIS_PASSWORD","valueFrom":{"secretKeyRef":{"key":"SM_REDIS_PASSWORD","name":"redis-password"}}},{"name":"SM_AWS_ACCESS_KEY_ID","valueFrom":{"secretKeyRef":{"key":"SM_AWS_ACCESS_KEY_ID","name":"aws-config"}}},{"name":"SM_AWS_SECRET_ACCESS_KEY","valueFrom":{"secretKeyRef":{"key":"SM_AWS_SECRET_ACCESS_KEY","name":"aws-config"}}},{"name":"SM_DATABASE_URL","value":"postgresql://stable:$(SM_DB_PASSWORD)@db.platform.svc.cluster.local:26258/defaultdb?sslmode=verify-ca\u0026sslrootcert=/etc/cockroachdb.crt"},{"name":"SM_CHANGEFEED_URL","value":"https://$(SM_BRANCH_SHA).api.zone.shopmonkey-eng.io/v3/internal/changefeed"},{"name":"SM_CHANGEFEED_URL_APIKEY","value":"changeme-to-secret"}],"envFrom":[{"configMapRef":{"name":"datamodel-env-configmap-8e34c91-1"}}],"image":"ghcr.io/shopmonkeyus/datamodel:8e34c9136592a08f9d7518fd4b77ac3cd74aaaee","imagePullPolicy":"Always","name":"datamodel-create","securityContext":{"allowPrivilegeEscalation":false,"capabilities":{"drop":["NET_RAW"]}},"volumeMounts":[{"mountPath":"/etc/cockroachdb.crt","name":"cockroach-cert-volume","readOnly":true,"subPath":"cockroachdb.crt"}]}],"imagePullSecrets":[{"name":"dockerconfigjson-github-com"}],"restartPolicy":"Never","volumes":[{"configMap":{"name":"cockroach-cert"},"name":"cockroach-cert-volume"}]}}}}
-  creationTimestamp: '2022-10-24T16:40:42Z'
   generation: 1
   labels:
     app: datamodel
-    app.kubernetes.io/instance: datamodel-nats-deploy-656f35-us-east-2
   name: datamodel-create-8e34c91-1
   namespace: nats-deploy-656f35
-  resourceVersion: '42288244'
-  uid: cc13c68b-c885-4666-a2c1-e4210184c3e8
 spec:
   activeDeadlineSeconds: 600
   backoffLimit: 2
@@ -47,11 +41,6 @@ spec:
                 - NET_RAW
           terminationMessagePath: /dev/termination-log
           terminationMessagePolicy: File
-          volumeMounts:
-            - mountPath: /etc/cockroachdb.crt
-              name: cockroach-cert-volume
-              readOnly: true
-              subPath: cockroachdb.crt
       dnsPolicy: ClusterFirst
       imagePullSecrets:
         - name: dockerconfigjson-github-com
