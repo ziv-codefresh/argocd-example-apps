@@ -21,7 +21,7 @@ spec:
       containers:
       - name: sleep
         image: busybox
-        command: ["/bin/sh","-c", "sleep 10000 && exit 1"]
+        command: ["/bin/sh","-c", "sleep 100 && exit 1"]
         imagePullPolicy: Always
         name: datamodel-create
         resources: {}
