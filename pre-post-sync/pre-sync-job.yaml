@@ -1,10 +1,10 @@
 apiVersion: batch/v1
 kind: Job
 metadata:
+  generation: 1
   annotations:
     argocd.argoproj.io/hook: Sync
     argocd.argoproj.io/hook-delete-policy: BeforeHookCreation
-  generation: 1
   labels:
     app: datamodel
   name: datamodel-create-8e34c91-1
